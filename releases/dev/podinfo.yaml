@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: sk91/podinfo
-      tag: dev-vhjuxszw
+      tag: dev-7mtmuy0v
     replicaCount: 1
     hpa:
       enabled: false
